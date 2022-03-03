@@ -1,0 +1,54 @@
+
+body{
+font-family: outfit;
+font-weight: 400;
+
+font-size: 15px;
+}
+
+
+.medium{
+  position: relative;
+  top: 50px;
+  bottom: 50px;
+  left:38px;
+background-color: #D6E2F0;
+margin: 100px;
+height: 380px;
+width: 600px;
+}
+.small{
+  position: relative;
+  top: 50px;
+  left: 125px;
+  bottom: 50px;
+  background-color: white;
+  width:150px;
+  height: 265px;
+  border-radius: 10px;
+  border-style: hidden;
+  margin: 100px;
+}
+
+img{
+  width:140px;
+  height:150px;
+  border-radius: 5px;
+  position: relative;
+  top: 5px;
+  left:5px;
+  right: 5px;
+
+}
+
+h5{
+  font-weight: 700;
+  text-align: center;
+}
+
+h6{
+  font-weight: 300;
+  text-align: center;
+ color: #7B879D;
+
+}
